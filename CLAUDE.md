@@ -22,7 +22,7 @@ CLAUDE.md: 全局地图与发布契约。
 .gitattributes: 固定跨平台文本换行，PowerShell/CMD 保留 CRLF。
 
 ## 构建与发布
-仓库为 solink7/codex-context-cleaner，版本以 Git 标签为准。
+仓库为 huxi7/codex-context-cleaner，版本以 Git 标签为准。
 只维护一份源码，发布器不修改源码树。
 运行 python -B tools/release.py 在 dist/ 生成两个系统包。
 --target macOS 或 Windows 只构建单个平台。
