@@ -23,7 +23,7 @@ Codex 本机上下文清洗工具。清理发往上游的推理历史与历史�
 
 ### 1. 下载并解压
 
-前往 [下载页面](https://github.com/solink7/codex-context-cleaner/releases/latest)，下载对应系统的压缩包：
+前往 [下载页面](https://github.com/huxi7/codex-context-cleaner/releases/latest)，下载对应系统的压缩包：
 
 - macOS：`codex-context-cleaner-macOS.zip`
 - Windows：`codex-context-cleaner-Windows.zip`
